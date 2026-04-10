@@ -1,4 +1,4 @@
-# CogMaPOI: A Cognition-Inspired Multi-Agent Framework for Next POI Recommendation
+# CogMaPOI: Cognition-Inspired Multi-Agent Framework for Next POI Recommendation
 
 > **Continual episodic inference for next point-of-interest prediction — no fine-tuning required.**
 
